@@ -27,3 +27,10 @@ let branch = "Information technology"
 
 console.table([Name,Village,Course,email_id,branch])
 
+ let food = "Maggei"
+ console.log(typeof food)
+ let numfood = Number(food)
+ console.log(numfood) // for this line
+ console.log(typeof numfood)
+
+//  output is NaN(not a number)
